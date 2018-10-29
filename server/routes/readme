@@ -1,0 +1,11 @@
+api/index is the page with the big title
+api/home is where the user view their accounts
+api/account is where we show the account detail to the user
+api/login is the login function
+api/register register function
+
+/index
+/home
+/account
+/login
+/register
