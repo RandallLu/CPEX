@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.3.2",
+    "ajv": "^6.5.4",
     "bcrypt": "^3.0.2",
     "bluebird": "^3.5.2",
     "body-parser": "^1.18.3",
@@ -13,6 +15,7 @@
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "helmet": "^3.14.0",
+    "material-ui": "^0.20.2",
     "mongoose": "^5.3.7",
     "multiparty": "^4.2.1",
     "passport": "^0.4.0",
